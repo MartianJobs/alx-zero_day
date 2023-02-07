@@ -1,2 +1,1 @@
 Not Empty
-QR Code
